@@ -1,5 +1,8 @@
 site_name: Univalle App / Lost and Found
 theme:
   name: material
-
+  nav:
+    - Home: index.md
+    - About: about.md
+    - Documentation: docs/
 
